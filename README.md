@@ -1,5 +1,6 @@
 ## using this link you can use this task in web .
 http://gitpod.io/#https://github.com/kamal847409/sarthi.git
+If you load the above URL, it will load the Visual Studio Code IDE in the cloud and you can run the project there, by running “npm install” and then “npm start” in the VS Code terminal as instructed
 
 ![sarthi](https://user-images.githubusercontent.com/44814685/102186999-69df4f80-3ed9-11eb-9604-532b91d5c941.png)
 ![sarthi1](https://user-images.githubusercontent.com/44814685/102187011-6ea40380-3ed9-11eb-87fa-5608a616af5c.png)
