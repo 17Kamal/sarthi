@@ -1,3 +1,6 @@
+![Screenshot from 2020-12-15 10-50-25](https://user-images.githubusercontent.com/44814685/102186657-f4737f00-3ed8-11eb-97e3-5d99b51c9193.png)
+
+
 # Sarthi
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.0.
